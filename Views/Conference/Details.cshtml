@@ -1,0 +1,48 @@
+@model Seminar.Models.Conference
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Conference</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.conferenceName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.conferenceName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.conferenceVenue)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.conferenceVenue)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.conferenceDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.conferenceDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.conferencePrice)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.conferencePrice)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Organiser)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Organiser.organiserID)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.conferenceID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

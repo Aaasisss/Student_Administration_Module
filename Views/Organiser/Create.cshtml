@@ -1,0 +1,45 @@
+@model Seminar.Models.Organiser
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Organiser</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="organiserName" class="control-label"></label>
+                <input asp-for="organiserName" class="form-control" />
+                <span asp-validation-for="organiserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="organiserLocation" class="control-label"></label>
+                <input asp-for="organiserLocation" class="form-control" />
+                <span asp-validation-for="organiserLocation" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="organiserPhone" class="control-label"></label>
+                <input asp-for="organiserPhone" class="form-control" />
+                <span asp-validation-for="organiserPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="organiserEmail" class="control-label"></label>
+                <input asp-for="organiserEmail" class="form-control" />
+                <span asp-validation-for="organiserEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

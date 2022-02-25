@@ -1,0 +1,558 @@
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/appsettings.Development.json
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/appsettings.json
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Seminar.deps.json
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Seminar.runtimeconfig.json
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Seminar.runtimeconfig.dev.json
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Seminar.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/ref/Seminar.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Seminar.pdb
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Seminar.Views.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Seminar.Views.pdb
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.csprojAssemblyReference.cache
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.AssemblyInfoInputs.cache
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.AssemblyInfo.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.csproj.CoreCompileInputs.cache
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.MvcApplicationPartsAssemblyInfo.cache
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.RazorAssemblyInfo.cache
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.RazorAssemblyInfo.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/staticwebassets/Seminar.StaticWebAssets.Manifest.cache
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/staticwebassets/Seminar.StaticWebAssets.xml
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/scopedcss/bundle/Seminar.styles.css
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.TagHelpers.input.cache
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.TagHelpers.output.cache
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.RazorCoreGenerate.cache
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.RazorTargetAssemblyInfo.cache
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.RazorTargetAssemblyInfo.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.Views.pdb
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.dll
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/ref/Seminar.dll
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.pdb
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.genruntimeconfig.cache
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Seminar.csproj.CopyComplete
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Humanizer.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/aaasisss/Projects/Seminar/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Create.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Delete.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Details.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Edit.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Index.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Create.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Delete.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Details.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Edit.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Index.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Create.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Delete.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Details.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Edit.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Index.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Create.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Delete.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Details.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Edit.cshtml.g.cs
+/Users/aaasisss/Projects/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Index.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/appsettings.Development.json
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/appsettings.json
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Seminar.deps.json
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Seminar.runtimeconfig.json
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Seminar.runtimeconfig.dev.json
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Seminar.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/ref/Seminar.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Seminar.pdb
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Seminar.Views.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Seminar.Views.pdb
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Humanizer.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/aaasisss/Desktop/Seminar/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.csprojAssemblyReference.cache
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.AssemblyInfoInputs.cache
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.AssemblyInfo.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.csproj.CoreCompileInputs.cache
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.MvcApplicationPartsAssemblyInfo.cache
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.RazorAssemblyInfo.cache
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.RazorAssemblyInfo.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/staticwebassets/Seminar.StaticWebAssets.Manifest.cache
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/staticwebassets/Seminar.StaticWebAssets.xml
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/scopedcss/bundle/Seminar.styles.css
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.TagHelpers.input.cache
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.TagHelpers.output.cache
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.RazorCoreGenerate.cache
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Create.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Delete.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Details.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Edit.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Index.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Create.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Delete.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Details.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Edit.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Index.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Create.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Delete.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Details.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Edit.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Index.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Create.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Delete.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Details.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Edit.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Index.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.RazorTargetAssemblyInfo.cache
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.RazorTargetAssemblyInfo.cs
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.Views.pdb
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.csproj.CopyComplete
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.dll
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/ref/Seminar.dll
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.pdb
+/Users/aaasisss/Desktop/Seminar/obj/Debug/net5.0/Seminar.genruntimeconfig.cache
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/appsettings.Development.json
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/appsettings.json
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Seminar.deps.json
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Seminar.runtimeconfig.json
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Seminar.runtimeconfig.dev.json
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Seminar.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/ref/Seminar.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Seminar.pdb
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Seminar.Views.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Seminar.Views.pdb
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Humanizer.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.csprojAssemblyReference.cache
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.AssemblyInfoInputs.cache
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.AssemblyInfo.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.csproj.CoreCompileInputs.cache
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.MvcApplicationPartsAssemblyInfo.cache
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.RazorAssemblyInfo.cache
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.RazorAssemblyInfo.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/staticwebassets/Seminar.StaticWebAssets.Manifest.cache
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/staticwebassets/Seminar.StaticWebAssets.xml
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/scopedcss/bundle/Seminar.styles.css
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.TagHelpers.input.cache
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.TagHelpers.output.cache
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.RazorCoreGenerate.cache
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Create.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Delete.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Details.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Edit.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Attendee/Index.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Create.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Delete.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Details.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Edit.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Conference/Index.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Create.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Delete.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Details.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Edit.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Organiser/Index.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Create.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Delete.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Details.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Edit.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Registration/Index.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.RazorTargetAssemblyInfo.cache
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.RazorTargetAssemblyInfo.cs
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.Views.pdb
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.csproj.CopyComplete
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/ref/Seminar.dll
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.pdb
+/Users/aaasisss/Documents/KOI SEM 4/Web Design[272]/Seminar/obj/Debug/net5.0/Seminar.genruntimeconfig.cache

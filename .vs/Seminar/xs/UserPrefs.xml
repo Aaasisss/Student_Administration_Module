@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A1FF63E1-59D4-4349-AAB9-142C895769C9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Seminar PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Attendee.cs">
+    <Files>
+      <File FileName="Models/Attendee.cs" Line="6" Column="25" IsPinned="True" />
+      <File FileName="Models/Organiser.cs" />
+      <File FileName="Models/Registration.cs" />
+      <File FileName="Models/Conference.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Seminar" expanded="True">
+            <Node name="Seminar" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Attendee.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

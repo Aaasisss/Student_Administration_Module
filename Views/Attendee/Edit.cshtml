@@ -1,0 +1,56 @@
+@model Seminar.Models.Attendee
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Attendee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="attendeeID" />
+            <div class="form-group">
+                <label asp-for="attendeeFirstName" class="control-label"></label>
+                <input asp-for="attendeeFirstName" class="form-control" />
+                <span asp-validation-for="attendeeFirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="attendeeLastName" class="control-label"></label>
+                <input asp-for="attendeeLastName" class="form-control" />
+                <span asp-validation-for="attendeeLastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="attendeeAge" class="control-label"></label>
+                <input asp-for="attendeeAge" class="form-control" />
+                <span asp-validation-for="attendeeAge" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="attendeePhone" class="control-label"></label>
+                <input asp-for="attendeePhone" class="form-control" />
+                <span asp-validation-for="attendeePhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="attendeeEmail" class="control-label"></label>
+                <input asp-for="attendeeEmail" class="form-control" />
+                <span asp-validation-for="attendeeEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="attendeeAddress" class="control-label"></label>
+                <input asp-for="attendeeAddress" class="form-control" />
+                <span asp-validation-for="attendeeAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
